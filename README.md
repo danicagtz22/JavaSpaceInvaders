@@ -1,7 +1,9 @@
 ```markdown
 # Multi-Threaded Space Invaders Game
 
-Welcome to the Multi-Threaded Space Invaders Game! This project is a Java-based, multi-threaded game inspired by the classic 2D arcade game Space Invaders. The game follows the Model-View-Controller (MVC) design pattern to ensure a clean and modular code structure.
+Welcome to the Multi-Threaded Space Invaders Game! This project is a Java-based, multi-threaded game
+inspired by the classic 2D arcade game Space Invaders. The game follows the Model-View-Controller (MVC)
+design pattern to ensure a clean and modular code structure.
 
 ## Description
 
