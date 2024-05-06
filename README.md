@@ -22,7 +22,7 @@ The Multi-Threaded Space Invaders Game brings the nostalgic gameplay of Space In
 3. Open the project in your favorite Java IDE.
 4. Build and run the project.
 
-##Game Instructions
+## Game Instructions
 
 This game is based off the popular arcade game Space Invaders.
 
